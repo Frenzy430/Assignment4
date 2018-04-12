@@ -13,14 +13,7 @@ This is the website where you will be able to see
 - Procrastinating
 - Being able to wing just about any assignment last minute
 
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Contact Me
+Contact me at:
+E-Mail: sploj6236@conestogac.on.ca 
+Phone: (226)-222-2222
