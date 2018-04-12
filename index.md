@@ -15,5 +15,6 @@ This is the website where you will be able to see
 
 ## Contact Me
 Contact me at:
-E-Mail: sploj6236@conestogac.on.ca 
+
+E-Mail: sploj6236@conestogac.on.ca
 Phone: (226)-222-2222
