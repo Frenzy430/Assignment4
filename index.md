@@ -1,10 +1,10 @@
 # Assignment 4 - Github Websites
 
-This is the website where you will be able to see 
+This is the website where you will be able to see my list of skills and contact information for me, Shane Ploj.
 
 ## Projects
 
----Under Construction---
+_**---Under Construction---**_
 
 ## List of Skills
 
