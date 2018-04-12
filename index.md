@@ -1,15 +1,26 @@
-## Assignment 4 - Github Website 
+# Assignment 4 - Github Websites
 
-This website is where you will get to see all of the reasons this assignment is 100% relevant to our course, and how often 
-we use this in our weekly class, or even how often we've talked about Github at all.
+This is the website where you will be able to see 
 
+## Projects
 
+---Under Construction---
 
+## List of Skills
 
+- Knowledge of HTML, CSS, JS, PHP, and C#
+- Knowing any and all League of legends champions, and all of their abilites
+- Procrastinating
+- Being able to wing just about any assignment last minute
 
+### Header 3
 
+- Bulleted
+- List
 
+1. Numbered
+2. List
 
+**Bold** and _Italic_ and `Code` text
 
-
-# We Don't
+[Link](url) and ![Image](src)
